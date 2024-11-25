@@ -15,3 +15,4 @@
 - Tottenham Court Road
 - Holborn
 - Chancery Lane
+- St. Paul's
