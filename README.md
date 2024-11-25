@@ -13,3 +13,4 @@
 - Bond Street
 - Oxford Circus
 - Tottenham Court Road
+- Holborn
